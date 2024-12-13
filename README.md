@@ -13,6 +13,6 @@
 <a href="#"><img align="left" alt="Git" title="Git" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" />
 <a href="#"><img align="left" alt="SQL" title="SQL" width="21px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/2bf886b8-c657-4a0b-a21e-f433071bf4d7" />
 <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<a href="#"><img align="left" alt="dbt" title="Tableau" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08x-dyNrslRMf2EJP8kBy2lVotjdSbUAIJw&s"/> 
+<a href="#"><img align="left" alt="dbt" title="Tableau" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQV0M--LYjXIR6s5HQLG3IUsDMZ8aYLi0wkQ&s"/> 
 <a href="#"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://img.icons8.com/color/200/tableau-software.png"/> 
 
