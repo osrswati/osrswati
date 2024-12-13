@@ -12,8 +12,9 @@
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="airflow" width="40" height="40"/></a>
-<a href="https://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> </a>
+<a href="#"><img align="left" alt="Git" title="Git" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" /></a>
+<a href="#"><img align="left" alt="SQL" title="SQL" width="21px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/2bf886b8-c657-4a0b-a21e-f433071bf4d7" /></a>
+<a href="#"><img align="left" alt="Tableau" title="Tableau" width="21px" src="https://github.com/fahernkhan/fahernkhan/assets/128980804/a449bb2a-fddb-470c-a7d9-cbb436ada008" /></a>
 
 ---
 
