@@ -10,7 +10,7 @@
 
 <div align="left">
   
-Data analytics and engineering professional with 7+ years of experience, specializing in Analytics Engineering and Data Visualization.
+Data practitioner professional with 4+ years of experience, specializing in Analytics Engineering and Data Visualization.
 
 Core Tech Stack:
 - **Data Visualization:** Tableau, Looker, Python Library (matplotlib, seaborn, streamlit)
