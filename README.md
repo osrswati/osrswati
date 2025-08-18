@@ -19,7 +19,7 @@ Core Tech Stack:
 - **Cloud & Version Control:** GCP, GitHub  
 
 
-Feel free to reach out.
+Feel free to reach out me: tdw.saraswati@gmail.com
 
 </div>
 
