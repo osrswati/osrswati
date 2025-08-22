@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, Saras here
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, Saras here!
 My name is **Saraswati**, a passionate data practitioner who enjoys working with data from collection and analysis to empowering informed decisions for myself and others
 
 <div align="center">
