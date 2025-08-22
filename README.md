@@ -12,15 +12,12 @@ My name is **Saraswati**, a passionate data practitioner who enjoys working with
 </div>
 
 <div align="left">
-  
-Data practitioner professional with 4+ years of experience, specializing in Analytics Engineering and Data Visualization.
 
 Core Tech Stack:
 - **Data Visualization:** Tableau, Looker, Python Library (matplotlib, seaborn, streamlit)
 - **ETL / Orchestration:** DBT (Data Built Tool), Airflow  
 - **Data Processing & Scripting:** SQL (BigQuery), Python, R Language  
 - **Cloud & Version Control:** GCP, GitHub  
-
 
 Feel free to reach out me: tdw.saraswati@gmail.com
 
