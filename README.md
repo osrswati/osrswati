@@ -3,7 +3,7 @@ My name is **Saraswati**, a passionate data practitioner who enjoys working with
 
 <div align="center">
 
-:link: [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; :link: [Tableau Public][tableau]
+:link:  [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; :link: [Tableau Public][tableau] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; :link: [Medium][medium]
 
 </div>
 
@@ -21,3 +21,4 @@ Feel free to reach out me: tdw.saraswati@gmail.com
 
 [LinkedIn]:https://www.linkedin.com/in/osrswati/
 [tableau]:https://public.tableau.com/app/profile/srswati/vizzes
+[medium]:https://srswati.medium.com/
