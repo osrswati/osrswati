@@ -1,6 +1,8 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, Saras here!
 My name is **Saraswati**, a passionate data practitioner who enjoys working with data from collection and analysis to empowering informed decisions for myself and others
 
+In my free time, I love sharing knowledge and experiences to help others. I believe everyone has unique talents, sometimes they just need someone to recognize and encourage them. I want to be that person who inspires, supports, and lifts others up along the way🌱📚
+
 <div align="center">
 
 :link:  [LinkedIn][LinkedIn]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; :link: [Tableau Public][tableau] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; :link: [Medium][medium]
